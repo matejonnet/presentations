@@ -12,7 +12,7 @@ Matej Lazar
 
 ???
 
-Visit [http://matejonnet.github.io/presentations/providing-lts-for-your-products/] (http://matejonnet.github.io/presentations/providing-lts-for-your-products/) to see slides in presentation mode.
+Visit [http://matejonnet.github.io/presentations/providing-lts-for-your-products/](http://matejonnet.github.io/presentations/providing-lts-for-your-products/) to see slides in presentation mode.
 
 ---
 
