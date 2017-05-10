@@ -101,7 +101,7 @@ Maintainance Risk
 
 Improving maintainability - Logical
 =========================
-- Minimize number of different libraries
+- Minimize number of different libraries (see use case)
     - Use provided
     - Align versions cross products
 - Keep record of used libraries
