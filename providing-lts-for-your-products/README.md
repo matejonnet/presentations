@@ -23,21 +23,26 @@ Agenda
 
 ### - Security bottom UP
 
-### - 
+### - Use case
 
-### - 
+### - Application level security
 
-### - 
+### - Maintainance Risk
+
+### - Improving maintainability
+
+### - Microservices
+
+### - Conclusion
 
 
 ---
 
 When we speak of LST
-====================
+==================
 - Supported product
-- Being able to fix the bugs (security exploits)
+- Being able to fix the bugs and ecurity exploits
 - Usualy no active development
-- especially publically available applicaitons
 
 ---
 
@@ -105,7 +110,7 @@ Improving maintainability - Logical
     - Slow releases
     - Costs
 - Use Maven BOM / shared parent
-
+- Automatic alignment
 
 ---
 
@@ -113,7 +118,7 @@ Improving maintainability - System
 =========================
 - Build on the CI (Jenkins etc.)
     - stored configuration
-    - Store all build results (logs)
+    - Store all build results (logs, workspace)
 - Use local repository manager (proxy)
 - Well defined Build environment (tooling and versions)
 - DB for product and dependecy relations
@@ -131,8 +136,8 @@ Containerised applications and Microservices
 
 ---
 
-PNC
-===
+Project Newcastle
+=================
 - Build in clean and isolated environment
     - Preinstalled required Installed tolling
 - Keep track of all downloaded dependencies and store them
@@ -157,8 +162,12 @@ PNC
 Thanks
 ======
 
-### PNC
+### Project Newcastle
 - [https://github.com/project-ncl/pnc](https://github.com/project-ncl/pnc)
 
 ### Presentation tool used
 - https://github.com/gnab/remark/
+
+
+### Questions
+- matejonnet@gmail.com
