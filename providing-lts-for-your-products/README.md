@@ -73,9 +73,11 @@ Application level security
 ==========================
 - Our bugs
 - Public CVE in dependencies
+    - we might need to fix it on our own
 - Which libraries are used in our applications
 - Choosing the right runtime environment (lts)
 - Dependency managers
+    - Not always good
     - Maven (provided vs. runtime)
 - Dependency repositories
     - Maven Central
@@ -96,6 +98,7 @@ Maintainance Risk
     - Miss some system library
     - Missing public/private repositories
     - Which environment is required (Java/maven version, native libs)
+- Easy maintainable system
 
 ---
 
@@ -122,6 +125,7 @@ Improving maintainability - System
 - Use local repository manager (proxy)
 - Well defined Build environment (tooling and versions)
 - DB for product and dependecy relations
+- Don't build on users PC
 
 ---
 
